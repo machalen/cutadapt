@@ -1,2 +1,3 @@
-# cutadapt
-Dockerfile to use cutadapt
+# Cutadapt
+Dockerfile to use cutadapt with ubuntu 14:04
+
