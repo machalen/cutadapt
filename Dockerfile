@@ -17,3 +17,5 @@ RUN apt-get install --yes python-pip libpython2.7-dev
 #Install cutadapt
 RUN pip install cutadapt
 
+#Set wokingDir in /
+WORKDIR /
